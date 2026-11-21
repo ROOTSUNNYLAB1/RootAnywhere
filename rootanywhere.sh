@@ -1,7 +1,10 @@
 #!/usr/bin/env bash
 # ──────────────────────────────────────────────────────────────────────────
 #  RootAnywhere v1.0 — made by ROOTSUNNY · ROOTSUNNY LAB
-#  © ROOTSUNNY LAB · MIT License
+#  © ROOTSUNNY LAB — ROOTSUNNY LAB Source-Available License (RSL-SAL v1.0)
+#  Free for personal use. Credits (ROOTSUNNY / ROOTSUNNY LAB) must NOT be removed
+#  or altered. No redistribution, no rebranding, no commercial use. See LICENSE.
+#  Permission requests: https://discord.gg/ztHkcSzVvd
 #  Rootless Linux anywhere, powered by PRoot.
 #  Run:  bash <(curl -s https://raw.githubusercontent.com/ROOTSUNNYLAB1/RootAnywhere/main/rootanywhere.sh)
 # ──────────────────────────────────────────────────────────────────────────

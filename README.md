@@ -12,6 +12,19 @@ bash <(curl -s https://raw.githubusercontent.com/ROOTSUNNYLAB1/RootAnywhere/main
 
 `rootless` · `proot` · `no sudo` · `no docker` · `no VM`
 
+[![License: RSL-SAL](https://img.shields.io/badge/license-RSL--SAL%20v1.0-8a7f6a?style=flat-square)](LICENSE)
+[![Personal use](https://img.shields.io/badge/use-personal%20only-6f8f7a?style=flat-square)](LICENSE)
+[![Credits required](https://img.shields.io/badge/credits-must%20stay-b08968?style=flat-square)](LICENSE)
+[![Platform](https://img.shields.io/badge/platform-linux-5f7a8a?style=flat-square&logo=linux&logoColor=white)](#requirements)
+[![Arch](https://img.shields.io/badge/arch-amd64%20%7C%20arm64-6b7f8f?style=flat-square)](#requirements)
+[![Shell](https://img.shields.io/badge/shell-bash-7a8a6a?style=flat-square&logo=gnubash&logoColor=white)](rootanywhere.sh)
+[![Engine](https://img.shields.io/badge/engine-PRoot-8f7a6f?style=flat-square)](https://proot-me.github.io/)
+[![Stars](https://img.shields.io/github/stars/ROOTSUNNYLAB1/RootAnywhere?style=flat-square&color=a89968)](https://github.com/ROOTSUNNYLAB1/RootAnywhere/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/ROOTSUNNYLAB1/RootAnywhere?style=flat-square&color=7f8f7a)](https://github.com/ROOTSUNNYLAB1/RootAnywhere/commits/main)
+[![Discord](https://img.shields.io/badge/discord-join%20ROOTSUNNY%20LAB-6a77a8?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/ztHkcSzVvd)
+
+[**Join the Discord**](https://discord.gg/ztHkcSzVvd) · [Report an issue](https://github.com/ROOTSUNNYLAB1/RootAnywhere/issues)
+
 *Made by **ROOTSUNNY** · **ROOTSUNNY LAB***
 
 </div>
@@ -172,6 +185,30 @@ RootAnywhere is **not a VM**. PRoot intercepts system calls in userspace, so:
 
 ## License
 
-[MIT](LICENSE) © ROOTSUNNY LAB
+RootAnywhere is **source-available, free for personal use** — the code is public so you can read it, run it and tweak it for yourself.
+It is **not** released under an OSI-approved "open source" license (such as MIT or GPL); the terms below are deliberate.
+
+Under the [ROOTSUNNY LAB Source-Available License (RSL-SAL v1.0)](LICENSE):
+
+| You **can** | You **cannot** |
+|---|---|
+| Use it for your own personal, non-commercial use | Redistribute it or any modified version to anyone |
+| Read and learn from the code | Publish a fork or copy with changed branding, name, banner or logo |
+| Modify it for yourself, on your own machines | Present it, or a modified version, as your own work |
+| Link to this repository, share screenshots with credit | Use it commercially, sell it, or offer it as a service |
+
+**Credits must stay.** `ROOTSUNNY`, `ROOTSUNNY LAB`, `made by ROOTSUNNY`, the banner, boot screen, login card and every notice
+in the Software and in the files it generates must remain intact and visible. Removing, hiding or altering them breaks the license
+and ends your right to use the Software.
+
+GitHub lets people fork public repositories, but a fork does not widen the license — it stays personal-use only.
+Need something outside these terms (redistribution, commercial use, a rebranded build)? Ask first on
+[Discord](https://discord.gg/ztHkcSzVvd) and get written permission.
+
+> This is a custom license, not legal advice. Read the full [LICENSE](LICENSE) text.
+
+## Community
+
+Questions, bugs, ideas or permission requests: **[discord.gg/ztHkcSzVvd](https://discord.gg/ztHkcSzVvd)**
 
 <div align="center"><sub>RootAnywhere · ROOTSUNNY LAB · made by ROOTSUNNY</sub></div>
